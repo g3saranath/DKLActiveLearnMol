@@ -1,1 +1,2 @@
-Datasets containing 5,000 and 12,000 molecules from QM9 dataset. The momlecules are selected randomly.
+We have prepared subsets of the QM9 dataset to test out the DKL active learning workflow for molecular design and property prediction. 
+There are three subsets containing 5,000 and another three containing 12,000 molecules, selected randomly from the entire QM9 dataset.
