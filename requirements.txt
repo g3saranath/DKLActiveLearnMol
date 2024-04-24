@@ -1,0 +1,10 @@
+wget
+rdkit-pypi
+selfies>=2.3.0
+git+https://github.com/ziatdinovmax/gpax
+atomai
+cmflib
+pandas
+numpy
+matplotlib
+torch

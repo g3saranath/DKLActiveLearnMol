@@ -1,0 +1,4 @@
+outs:
+- md5: 8fc6e63b3b75a4ad183e18a09fb4e292
+  size: 528
+  path: active_trgt_0.npy
