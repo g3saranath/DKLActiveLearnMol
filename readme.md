@@ -14,3 +14,6 @@ The repository demonstrates the CMF implementation on viDKL with CMF Logging, an
 4. The `DemoP2.ipynb` can be run on a different directory also, for simplicity showing in the same directory here. This part pulls the artifacts and metadata, performs some loss analysis based on threshold value, if loss > threshold, then the model at that point will be fetched from cmf artifacts, and continous training will be performed with a different acquisition function.
 5. `CMF_query.ipynb` is also provided to show different querying aspects of the mlmd file to obtain the executions and artifacts.
 6. The output neo4j graph DB can be accessed from http://localhost:7474 --> Enter username and password for Bolt login as specified in the code.
+
+## For Dynamic Active Learning Experiments:
+Please run the file `Representation Learning Experiments-fullset.ipynb` notebook to run experiments of AF, DAF and Normalized DAF for the entire dataset consisting of about 133K samples on Energy Target properties. 
