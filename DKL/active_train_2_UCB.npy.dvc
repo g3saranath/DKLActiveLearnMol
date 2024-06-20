@@ -1,0 +1,4 @@
+outs:
+- md5: ea40074333df0a3ce04102a98c5e27c1
+  size: 236000
+  path: active_train_2_UCB.npy

@@ -1,0 +1,4 @@
+outs:
+- md5: a29e7f2e749078cf6c3814de937475e3
+  size: 349400
+  path: active_train_7_Entropy.npy

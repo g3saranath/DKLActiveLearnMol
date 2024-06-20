@@ -1,0 +1,4 @@
+outs:
+- md5: 22f0976fe15cd5b3937ca7cf7c911a13
+  size: 163401
+  path: active_learning_nn_model_6_Entropy.npy

@@ -1,0 +1,4 @@
+outs:
+- md5: 29aa58117c794aa6f052717a05221016
+  size: 976
+  path: embed_traj_3_UCB.npy

@@ -1,0 +1,4 @@
+outs:
+- md5: af1db45ff6df4c69d36894c9b6661ba3
+  size: 8128
+  path: predicted_mean.npy

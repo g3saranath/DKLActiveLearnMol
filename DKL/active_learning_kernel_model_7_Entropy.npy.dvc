@@ -1,0 +1,4 @@
+outs:
+- md5: e6a1c1541eaea5e6b809400b08c0184f
+  size: 604
+  path: active_learning_kernel_model_7_Entropy.npy

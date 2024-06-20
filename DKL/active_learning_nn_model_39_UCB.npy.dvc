@@ -1,0 +1,4 @@
+outs:
+- md5: 9267f29a8b6881b4bcfb0070b4596220
+  size: 325969
+  path: active_learning_nn_model_39_UCB.npy

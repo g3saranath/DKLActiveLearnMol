@@ -1,0 +1,4 @@
+outs:
+- md5: fd36b68205aed58e2696ea2e206714de
+  size: 8128
+  path: target_data.npy

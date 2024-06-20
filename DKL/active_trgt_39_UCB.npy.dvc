@@ -1,0 +1,4 @@
+outs:
+- md5: fc5c20216826777ff0e8fc7bf1687d48
+  size: 840
+  path: active_trgt_39_UCB.npy

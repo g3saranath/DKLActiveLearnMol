@@ -1,0 +1,4 @@
+outs:
+- md5: af6da4ffc1edede08408eba1fc90fa23
+  size: 620
+  path: active_learning_kernel_model_40_UCB.npy

@@ -1,0 +1,4 @@
+outs:
+- md5: 789eaa98fc9d368b476254070a502512
+  size: 8128
+  path: prediccted_std.npy
